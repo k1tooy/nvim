@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.o.incsearch = true
 vim.o.hlsearch = false
+vim.opt.guicursor:append("a:blinkon100")
